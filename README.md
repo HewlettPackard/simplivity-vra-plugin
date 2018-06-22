@@ -28,7 +28,7 @@ central IT organization.
 
 ## Design scenarios and considerations
 Please check the Design guide for complete list of VRA design scenarios and considerations.
-[Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf)Page5
+[Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf) (Page5)
 
 ## Functionalities
 The following functionalities are extended to vRA:
@@ -41,7 +41,7 @@ The following functionalities are extended to vRA:
 - Display the list of backups and its sizes associated with a virtual machine
 
 Please visit design guide for more details on each functionality.
-[Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf)Page=15
+[Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf) (Page=15)
 
 Also please note: vRA Move Operation – Second vcenter is configured in both vRA and vRO. 
 	- By adding to vRA, the cluster and storage details of the 2nd vcenter will be available after the MOVE operation
@@ -50,4 +50,4 @@ Else vRO cannot process any simplivity request and an error will be visible in t
 
 ## Installation
 The step by step guide to the installation is also documented in the design guide. Please visit the below link for the same.
-[Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf)Page=27
+[Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf) (Page=27)
