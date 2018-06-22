@@ -32,20 +32,20 @@ Please check the Design guide for complete list of VRA design scenarios and cons
 
 ## Functionalities
 The following functionalities are extended to vRA:
-• Create and delete backup policy
-• Set backup policy on a virtual machine or multi-machine service
-• Backup and restore a virtual machine or multi-machine service
-• Move a virtual machine or multi-machine service
-• Clone a virtual machine
-• Create, delete, and resize HPE SimpliVity datastore
-• Display the list of backups and its sizes associated with a virtual machine
+- Create and delete backup policy
+- Set backup policy on a virtual machine or multi-machine service
+- Backup and restore a virtual machine or multi-machine service
+- Move a virtual machine or multi-machine service
+- Clone a virtual machine
+- Create, delete, and resize HPE SimpliVity datastore
+- Display the list of backups and its sizes associated with a virtual machine
 
 Please visit design guide for more details on each functionality.
 [Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf#page=15)
 
 Also please note: vRA Move Operation – Second vcenter is configured in both vRA and vRO. 
-	• By adding to vRA, the cluster and storage details of the 2nd vcenter will be available after the MOVE operation
-	• By adding to vRO, the subsequent Simplivity operations (after simplivity DC move) will be continue to work only if the 2nd vcenter is available in vRO.
+	- By adding to vRA, the cluster and storage details of the 2nd vcenter will be available after the MOVE operation
+	- By adding to vRO, the subsequent Simplivity operations (after simplivity DC move) will be continue to work only if the 2nd vcenter is available in vRO.
 Else vRO cannot process any simplivity request and an error will be visible in the vRA portal.
 
 ## Installation
