@@ -9,13 +9,13 @@ hyperconverged infrastructure performs inline data deduplication, compression, a
 data lifecycle. By minimizing I/O and network traffic, routine operations such as application cloning, backup, and restore functions can be
 completed in seconds or minutes instead of hours or even days.
 
-##VMware® vRealize Automation
+## VMware® vRealize Automation
 VMware vRealize Automation (vRA) streamlines the delivery and administration of private, public, and hybrid cloud applications and services.
 The solution helps IT organizations accelerate service velocity, boost business agility, and contain operations expenses by automating IT service
 deployment and lifecycle management tasks. Application developers and other users turn up compute resources and applications on-demand
 without IT involvement, using self-service portals and service catalogs.
 
-##HPE SimpliVity and vRA
+## HPE SimpliVity and vRA
 HPE SimpliVity has fully integrated and rigorously tested HPE SimpliVity 380 with vRA, enabling HPE SimpliVity customers to fully experience
 the features and benefits of VMware’s popular IT service delivery platform. The HPE SimpliVity hyperconverged infrastructure streamlines IT
 operations and accelerates service velocity by unifying administrative tasks—all resources and features are centrally provisioned from the
