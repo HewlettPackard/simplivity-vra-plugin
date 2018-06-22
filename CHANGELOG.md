@@ -5,10 +5,10 @@
  replaced by a new edition.
 
 #### HPE SimpliVity, the following functionalities are extended to vRA:
-• Create and delete backup policy
-• Set backup policy on a virtual machine or multi-machine service
-• Backup and restore a virtual machine or multi-machine service
-• Move a virtual machine or multi-machine service
-• Clone a virtual machine
-• Create, delete, and resize HPE SimpliVity datastore
-• Display the list of backups and its sizes associated with a virtual machine
+- Create and delete backup policy
+- Set backup policy on a virtual machine or multi-machine service
+- Backup and restore a virtual machine or multi-machine service
+- Move a virtual machine or multi-machine service
+- Clone a virtual machine
+- Create, delete, and resize HPE SimpliVity datastore
+- Display the list of backups and its sizes associated with a virtual machine
