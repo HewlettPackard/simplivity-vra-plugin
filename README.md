@@ -51,3 +51,6 @@ Else vRO cannot process any simplivity request and an error will be visible in t
 ## Installation
 The step by step guide to the installation is also documented in the design guide. Please visit the below link for the same.
 [Click here](https://github.com/HewlettPackard/simplivity-vra-plugin/blob/master/HPE%20SimpliVity%20with%20VMware%20vRealize%20Automation%20Design%20guide.pdf) (Page 27)
+
+# SimpliVity vRA Blueprints
+Creation of SimpliVity XaaS blueprints in vRealize Automation are automated and the detailed procedure is available in the vRA-blueprint directory.

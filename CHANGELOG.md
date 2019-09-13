@@ -1,3 +1,10 @@
+# v1.0.1
+This is a minor release update of SimpliVity vra plugin. This release includes some key features that are listed below:
+•	Support to delete Simplivity backup of a Virtual machine
+•	Implemented vRA custom workflows to Set SimpliVity Backup Policy for the VM created using vRA blueprints
+•	Option to power Off VMs in SimpliVity Move operation
+•	Follow the SimpliVity tasks in all the workflows by eliminating any extra sleep or wait time
+
 # v1.0.0
 #### Notes
  This is the first release of the VRA plugin for simplivity. It adds full support to all the operations mentioned in the design guide.
